@@ -9,7 +9,7 @@ entries:
     name: akash-services-monitoring
     type: application
     urls:
-    - https://shimpa1.github.io/helm-charts/akash-services-monitoring-0.1.0.tgz
+    - https://shimpa1.github.io/helm-charts/akash-services-monitoring-0.1.2.tgz
     version: 1.0.2
   fluent-bit-catchall:
   - apiVersion: v2
