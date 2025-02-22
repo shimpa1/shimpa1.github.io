@@ -13,7 +13,7 @@ entries:
     version: 0.1.0
   fluent-bit-catchall:
   - apiVersion: v2
-    appVersion: 1.16.0
+    appVersion: 1.0.1
     created: "2025-02-21T08:08:30.735655651Z"
     description: A Helm chart for deploying fluent-bit instance to any Kubernetes
       cluster that forwards logs from all namespaces
