@@ -21,6 +21,6 @@ entries:
     name: fluent-bit-catchall
     type: application
     urls:
-    - https://shimpa1.github.io/helm-charts/fluent-bit-catchall-0.1.0.tgz
+    - https://shimpa1.github.io/helm-charts/fluent-bit-catchall-0.1.1.tgz
     version: 0.1.0
 generated: "2025-02-21T08:08:30.733341288Z"
