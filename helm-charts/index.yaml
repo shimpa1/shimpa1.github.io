@@ -2,7 +2,7 @@ apiVersion: v1
 entries:
   akash-services-monitoring:
   - apiVersion: v2
-    appVersion: 0.1.1
+    appVersion: 0.1.2
     created: "2025-02-21T08:08:30.73534112Z"
     description: A Helm chart for monitoring akash-services namespace pods
     digest: 4e6b3f3ad74542ca08d352b0176a5972d94934eab353b790481d44c1f494760e
@@ -10,7 +10,7 @@ entries:
     type: application
     urls:
     - https://shimpa1.github.io/helm-charts/akash-services-monitoring-0.1.0.tgz
-    version: 1.0.1
+    version: 1.0.2
   fluent-bit-catchall:
   - apiVersion: v2
     appVersion: 1.0.1
